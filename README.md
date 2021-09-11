@@ -12,6 +12,10 @@ All source code is licensed under the <a href="https://opensource.org/licenses/B
 All data is licensed under the Creative Commons <a href="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International (CC BY 4.0)</a> license.
 
 ## How-to contribute
+The simplest technique may be to click the "edit" button (stylus) on
+the Github page with the <a href="https://github.com/petervandenabeele/ClimateData.be/blob/gh-pages/index.html">
+source code of that page</a> and then make a PR as suggested in that work flow.
+
 At this moment, this repository is a "Github Pages" _project page_, with no
 theme and no custom DNS.
 
@@ -26,7 +30,3 @@ contents in the `gh-pages` branch (_not_ on this main branch).
 
 If you want to contribute while not a member of this project (yet), you could fork
 this code, make a change in the `gh-pages` branch and raise a PR for it.
-
-A simpler technique may be to click the "edit" button (stylus) on
-the Github page with the <a href="https://github.com/petervandenabeele/ClimateData.be/blob/gh-pages/index.html">
-source code of that page</a> and then make a PR as suggested in that work flow.
