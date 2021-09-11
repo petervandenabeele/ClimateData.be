@@ -24,5 +24,9 @@ Viewing the result locally on your laptop works by going to
 Pushing the result to the server is by adding, committing and pushing the updated
 contents in the `gh-pages` branch (_not_ on this main branch).
 
-If you want to contribute, you could fork this code, make a change in the
-`gh-pages` branch and raise a PR for it.
+If you want to contribute while not a member of this project (yet), you could fork
+this code, make a change in the `gh-pages` branch and raise a PR for it.
+
+A simpler technique may be to click the "edit" button (stylus) on
+the Github page with the <a href="https://github.com/petervandenabeele/ClimateData.be/blob/gh-pages/index.html">
+source code of that page</a> and then make a PR as suggested in that work flow.
