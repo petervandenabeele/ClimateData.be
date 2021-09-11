@@ -9,7 +9,7 @@ CNAME file for custom ClimateData.be domain.
 ## License
 All source code is licensed under the <a href="https://opensource.org/licenses/BSD-3-Clause">BSD-3-Clause</a> license.
 
-All data is licensed under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons, Attribution 4.0 International (CC BY 4.0)</a> license.
+All data is licensed under the Creative Commons <a href="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International (CC BY 4.0)</a> license.
 
 ## How-to contribute
 At this moment, this repository is a "Github Pages" _project page_, with no
