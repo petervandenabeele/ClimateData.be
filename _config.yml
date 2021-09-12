@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+title: ClimateData.be
+description: "ClimateData.be presents data and optimisation techniques to reduce #climate change (mitigation) and the impact from it (adaptation)."
+google_analytics:
