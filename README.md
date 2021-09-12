@@ -11,20 +11,17 @@ All data is licensed under the Creative Commons <a href="https://creativecommons
 
 ## How-to contribute
 The simplest technique may be to click the "edit" button (stylus) on
-the Github page with the <a href="https://github.com/petervandenabeele/ClimateData.be/blob/gh-pages/index.html">
-source code of that page</a> and then make a PR as suggested in that work flow.
+the Github page with the <a href="https://github.com/petervandenabeele/ClimateData.be/blob/gh-pages/index.markdown">source code of the home</a> and then make a PR as suggested in that work flow.
 
-At this moment, this repository is a "Github Pages" _project page_, with no
-theme and no custom DNS.
+At this moment, this repository is a "Github Pages" _project page_.
 
 Changing the content occurs by checking out the `gh-pages` branch and changing the
-text there.
-
-Viewing the result locally on your laptop works by going to
-`file://.../ClimateData.be/` from a browser.
+content there (in Jekyll context).
 
 Pushing the result to the server is by adding, committing and pushing the updated
-contents in the `gh-pages` branch (_not_ on this main branch).
+contents in the `gh-pages` branch (_not_ on this main branch). This will
+trigger a rebuild on the server. Local testing is possible with
+`bundle exec jekyll serve`.
 
 If you want to contribute while not a member of this project (yet), you could fork
 this code, make a change in the `gh-pages` branch and raise a PR for it.
