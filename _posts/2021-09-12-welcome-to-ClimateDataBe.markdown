@@ -15,7 +15,7 @@ modelling (my PhD was on advanced thermal measurement and control in
 semiconductor manufacturing), I want to contribute some effective data to
 create most "bang for the buck". What can I do, in my scenario (and other
 people's scenarios) that is most effective? Maybe sponsoring some United
-Nations or NGO program with 10,000 USD, might be _waaayyy_ more efficient
+Nations or NGO program with 10,000 EUR, might be _waaayyy_ more efficient
 than replacing the windows of an already older house to save a few liters
 of gasoil per year? Don't know yet, that is what I try to calculate here.
 
