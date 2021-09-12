@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The ClimateData.be project was started by [Peter
+Vandenabeele](https://www.vandenabeele.com) as an effort to supply more
+good data about Climate Change and see what I (and others) can best do
+to help fighting the Climate crisis.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This is work in progres, so far from complete or even usable ...
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This work has [source code and licenses](https://github.com/petervandenabeele/ClimateData.be).
