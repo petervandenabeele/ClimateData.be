@@ -2,9 +2,7 @@
 ClimateData.be presents data and optimization techniques to reduce #climate change
 (mitigation) and the impact from it (adaptation).
 
-The site is temporarily available at <a href="https://petervandenabeele.github.io/ClimateData.be/">
-https://petervandenabeele.github.io/ClimateData.be/</a> until we arrange the
-CNAME file for custom ClimateData.be domain.
+The site is available at <a href="https://www.climatedata.be/">https://www.climatedata.be/</a>.
 
 ## Licenses
 All source code is licensed under the <a href="https://opensource.org/licenses/BSD-3-Clause">BSD-3-Clause</a> license.
