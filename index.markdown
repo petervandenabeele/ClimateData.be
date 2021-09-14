@@ -15,7 +15,7 @@ The source code for this page is at [https://github.com/petervandenabeele/Climat
 
 ## Podcasts
 
-* Fantastic [Caroline Lewis](
+* Fantastic [Caroline Lewis of GenCLEO](
 https://twitter.com/CLEOInstitute) on [Empowering Youth to Use Their Voice "feeling important and needed"](
 https://open.spotify.com/episode/3zoIBuLoJZoTKR4NNPlyU6)
  (With a factually correct explanation of the "greenhouse" effect on "Climate Correction" podcast from [VoLoFoundation](
