@@ -15,9 +15,16 @@ The source code for this page is at [https://github.com/petervandenabeele/Climat
 
 ## Podcasts
 
-* [Paul Rennie on Climate Change mitigation and impact of work and economy](
+* Fantastic [Caroline Lewis](
+https://twitter.com/CLEOInstitute) on [Empowering Youth to Use Their Voice "feeling important and needed"](
+https://open.spotify.com/episode/3zoIBuLoJZoTKR4NNPlyU6)
+ (With a factually correct explanation of the "greenhouse" effect on "Climate Correction" podcast from [VoLoFoundation](
+https://volofoundation.org/))
+* [Paul Rennie](
+https://www.gov.uk/government/people/paul-rennie) on [Climate Change mitigation and impact of work and economy](
 https://climatecorrection.libsyn.com/how-the-us-and-uk-collaborate-to-impact-climate-change-paul-rennie_uk-diplomat)
- (on "Climate Correction" from VoLo's Climate Correction Podcast)
+ (on "Climate Correction" podcast from [VoLoFoundation](
+https://volofoundation.org/))
 * [When will countries stop exploring for oil?](
 https://www.bbc.co.uk/programmes/w3ct2dr0)
  (on "The Climate Question" from BBC World Service)
