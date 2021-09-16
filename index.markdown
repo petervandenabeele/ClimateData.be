@@ -61,12 +61,15 @@ Some ideas:
 
 * investing in environmentally friendly funds (ESG, no fossil fuels, ...)
 * sponsor - donate to organisations/actions (in the north or the south ?)
-* write to politicians
+* write to politicians, vote and motivate others to vote
 * buy an hybrid or full electric vehicle (instead of diesel/gasoline)
 * heating types for houses
 * Use train+folding bike instead of car
 * different buying patterns (vote with your dollars)
-* vote
+* reduce effect of proof of work in crypto-currencies
+* slow fashion: less new clothes
+* local travel: discover all the beautiful places close to your door
+* teleworking and/or local working: less km and less cars
 * ...
 
 # Data Sources
